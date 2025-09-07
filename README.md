@@ -158,5 +158,6 @@ The client will run on `http://localhost:3000`
 ### AI Image Generation
 - Generate images using Hugging Face's Stable Diffusion
 - Download generated images
-- Integrate images into posts
+
+  
 
