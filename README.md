@@ -160,18 +160,3 @@ The client will run on `http://localhost:3000`
 - Download generated images
 - Integrate images into posts
 
-### Real-time Updates
-- Socket.io integration for real-time features
-- Live updates for posts and comments
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
-## License
-
-MIT License
